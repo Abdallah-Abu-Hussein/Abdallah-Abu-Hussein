@@ -6,4 +6,3 @@
 - ⚡ Fun fact:
  - I Know how to exit vim,
  - I use Arch BTW,
- - Average HTML Programmer :)
