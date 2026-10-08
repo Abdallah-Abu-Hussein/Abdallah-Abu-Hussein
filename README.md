@@ -1,5 +1,1 @@
-### Hi there 👋
-
-- 📫 How to reach me: abdallah_abuhussein@outlook.com
- - I Know how to exit vim,
- - I use Arch BTW,
+![Contributions](https://github-contribution-merger.apoorvdarshan.com/api/merge?users=Abdallah-Abu-Hussein,Abdallah-AbuHuseein)
